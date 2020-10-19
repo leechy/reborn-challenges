@@ -1,0 +1,7 @@
+{
+  "name": "reborn-challenges",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
